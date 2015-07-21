@@ -8,4 +8,4 @@ twitter_username: genkei
 github_username:  dspaudio
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
