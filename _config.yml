@@ -4,8 +4,56 @@ email: wknam@codearts.co.kr
 description: 테스트
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.codearts.co.kr" # the base hostname & protocol for your site
-twitter_username: genkei
-github_username:  dspaudio
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/:title
+
+# Setup
+tagline:	'codearts'
+
+author:
+  name:		'Wonkyoo Nam'
+  # url:		https://google.com/+IanCamporezBrunelli
+
+paginate:	1
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  # - icon:	twitter
+  #   url:	https://twitter.com/iancamporez
+  #   desc:	Follow me on twitter
+  #
+  # - icon:	github
+  #   url:	https://github.com/camporez
+  #   desc:	Fork me on github
+  #
+  # - icon:	googleplus-alt
+  #   url:	https://google.com/+IanCamporezBrunelli
+  #   desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://camporez.com/atom.xml
+    desc:	Subscribe to my feed
+
+menu:
+  - title:	Home
+    url:	/
+
+  - title:	About
+    url:	/about
+
+copyright:
+  author:	codearts
+  url:		http://www.codearts.co.kr
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
