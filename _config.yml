@@ -1,7 +1,7 @@
 # Site settings
 title: codearts.co.kr
 email: wknam@codearts.co.kr
-description: 테스트
+description: 홈페이지 테스트입니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.codearts.co.kr" # the base hostname & protocol for your site
 twitter_username: genkei
