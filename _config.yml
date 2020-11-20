@@ -1,10 +1,9 @@
 # Site settings
-title: codearts.co.kr
-email: wknam@codearts.co.kr
-description: 홈페이지 테스트입니다.
+title: dspaudio.github.io
+email: dspaudio@gmail.com
+description: dspaudio's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.codearts.co.kr" # the base hostname & protocol for your site
-twitter_username: genkei
+url: "https://dspaudio.github.io" # the base hostname & protocol for your site
 github_username:  dspaudio
 
 # Build settings
