@@ -5,6 +5,3 @@ description: dspaudio's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dspaudio.github.io" # the base hostname & protocol for your site
 github_username:  dspaudio
-
-# Build settings
-markdown: redcarpet
